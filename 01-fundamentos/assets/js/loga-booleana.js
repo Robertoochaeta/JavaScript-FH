@@ -21,3 +21,6 @@ console.log(regresaFalse() && regresaTrue())
 console.log(regresaTrue() && regresaFalse())
 
 console.warn("OR");
+console.log(true || false)
+
+console.log(regresaTrue() || regresaFalse())
