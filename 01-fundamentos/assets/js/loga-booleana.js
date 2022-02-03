@@ -25,3 +25,6 @@ console.log(true || false)
 
 console.log(regresaTrue() || regresaFalse())
 console.log('4 condiciones', true || true || true || false)
+
+
+console.warn("Asignaciones");
