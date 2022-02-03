@@ -28,3 +28,8 @@ console.log('4 condiciones', true || true || true || false)
 
 
 console.warn("Asignaciones");
+
+const soyUndefined=undefined;
+const soyNull=null;
+const soyFalso=false;
+
