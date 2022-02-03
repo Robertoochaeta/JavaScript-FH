@@ -9,3 +9,15 @@ const regresaFalse= ()=>{
 console.warn("Not o la negacion")
 console.log(true)
 console.log(!true)
+console.log(!false)
+
+console.log(!regresaFalse());
+
+console.warn("Operador And");
+console.log(true && true) //True
+console.log(true && false); //false
+
+console.log(regresaFalse() && regresaTrue())
+console.log(regresaTrue() && regresaFalse())
+
+console.warn("OR");
